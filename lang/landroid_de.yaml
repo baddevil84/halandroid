@@ -39,11 +39,11 @@ homeassistant:
     sensor.mower_wifi:
       friendly_name: WLAN Qualität
     sensor.mower_yaw:
-      friendly_name: Gieren/Рысканье
+      friendly_name: Gieren
     sensor.mower_roll:
-      friendly_name: Rollen/Крен
+      friendly_name: Rollen
     sensor.mower_pitch:
-      friendly_name: Nicken/Тангаж
+      friendly_name: Nicken
 
   # Input Selects ######
     input_select.mower_zone:
