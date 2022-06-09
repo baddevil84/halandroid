@@ -81,7 +81,7 @@ cards:
           font-weight: bold
           color: rgb(3, 169, 244)
       - type: state-icon
-        title: Nicken/Тангаж
+        title: Nicken
         entity: sensor.mower_pitch
         style:
           top: 9%
@@ -89,7 +89,7 @@ cards:
           transform: none
           "--paper-item-icon-color": rgb(3, 169, 244)
       - type: state-label
-        title: Nicken/Тангаж
+        title: Nicken
         entity: sensor.mower_pitch
         style:
           top: 10%
@@ -98,7 +98,7 @@ cards:
           font-weight: bold
           color: rgb(3, 169, 244)
       - type: state-icon
-        title: Rollen/Крен
+        title: Rollen
         entity: sensor.mower_roll
         style:
           top: 18%
@@ -106,7 +106,7 @@ cards:
           transform: none
           "--paper-item-icon-color": rgb(3, 169, 244)
       - type: state-label
-        title: Rollen/Крен
+        title: Rollen
         entity: sensor.mower_roll
         style:
           top: 19%
@@ -115,7 +115,7 @@ cards:
           font-weight: bold
           color: rgb(3, 169, 244)
       - type: state-icon
-        title: Gieren/Рысканье
+        title: Gieren
         entity: sensor.mower_yaw
         style:
           top: 26%
@@ -123,7 +123,7 @@ cards:
           transform: none
           "--paper-item-icon-color": rgb(3, 169, 244)
       - type: state-label
-        title: Gieren/Рысканье
+        title: Gieren
         entity: sensor.mower_yaw
         style:
           top: 27%
